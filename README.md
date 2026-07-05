@@ -2,7 +2,7 @@
   <img src="doc/images/m5dial.png" width="300" alt="m5flight_dial logo">
 </p>
 
-# m5flight_dial
+# M5 Flight Dial
 
 m5flight_dial is a real-time flight tracking radar built specifically for the M5Stack M5Dial using MicroPython.
 
@@ -11,10 +11,6 @@ It operates by fetching live aircraft data from Flightradar24, calculating each 
 This project was based off Sebwap's [M5Dial_FlightRadar](https://github.com/Sebwap/M5Dial_FlightRadar), remaking it into a polished, hardened version featuring a compass-style display, its own rotary-encoder class, and try/except error handling throughout.
 
 STL files for a stand are included in the [`stl/`](stl) directory.
-
-<p align="center">
-  <img src="doc/images/m5dial.png" width="600" alt="m5flight_dial showing nearby aircraft on the compass display">
-</p>
 
 ## Requirements
 
